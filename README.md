@@ -7,3 +7,5 @@ Discontinuous printing paths in 3D printing lead to wasted time in fabricating p
 
 
 注：该库已上传文章的核心算法和输入输出结果。
+
+联系邮箱：haoxu5640@gmail.com
